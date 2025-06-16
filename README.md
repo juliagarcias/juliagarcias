@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hello World 👋
 
+Eu sou a Júlia Garcia, estudante de Sistemas de Informação na UNIFEI. Estou começando minha jornada no mundo da tecnologia e estou muito animada com todas as possibilidades que essa área oferece!
+
+Sou uma pessoa proativa, com muita vontade de aprender e contribuir com ideias, soluções e muita dedicação, podendo assim expandir minha área de conhecimento e crescer constantemente.
+
+🤝 Aberta a colaborações, networking e projetos que desafiem
 <!--
 **juliagarcias/juliagarcias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
